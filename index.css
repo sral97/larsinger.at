@@ -74,6 +74,7 @@ header > h1 {
     width: 100%;
     padding: 2rem 1rem;
     text-align: center;
+    text-shadow: 0 0 5px #141218;
 }
 
 article {
