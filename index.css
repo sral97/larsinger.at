@@ -60,7 +60,7 @@ nav li:first-child a {
 header {
     position: relative;
     width: 100%;
-    height: 90vh;
+    height: 90svh;
     background-image: url('/images/laughing.jpg');
     background-position: center top;
     background-size: cover;
@@ -83,7 +83,7 @@ article {
 }
 
 #about, #socials {
-    min-height: 80vh;
+    min-height: 80svh;
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
