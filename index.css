@@ -110,10 +110,16 @@ article {
 
 #socials ul {
     list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: -0.25em;
+    max-width: 550px;
 }
 
 #socials ul li {
-    padding-bottom: 0.4rem;
+    padding: 0;
+    margin: .25em;
 }
 
 #socials ul li a {
@@ -121,6 +127,8 @@ article {
     color: #381E72;
     border: 1px solid #938F99;
     border-radius: .25em;
+    width: 100%;
+    text-align: center;
 }
 
 #imprint a {
